@@ -1,0 +1,34 @@
+{
+  "todo-list": [
+    {
+      "content": "Go fishing 1",
+      "id": "1",
+      "isComplete": true
+    },
+    {
+      "id": "3",
+      "content": "Studying",
+      "isComplete": false
+    },
+    {
+      "id": "5",
+      "content": "Male walking cane",
+      "isComplete": true
+    },
+    {
+      "id": "9",
+      "content": "Remote working",
+      "isComplete": true
+    },
+    {
+      "id": "18",
+      "content": "Play together",
+      "isComplete": true
+    },
+    {
+      "id": "103b",
+      "content": "code please",
+      "isComplete": true
+    }
+  ]
+}
